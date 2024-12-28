@@ -1,0 +1,25 @@
+{
+  "name": "expressgents",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node ./src/server.ts"
+  },
+  "dependencies": {
+    "@types/cookie-parser": "^1.4.8",
+    "@types/debug": "^4.1.12",
+    "@types/ejs": "^3.1.5",
+    "@types/express": "^5.0.0",
+    "@types/http-errors": "^2.0.4",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.10.2",
+    "cookie-parser": "~1.4.7",
+    "debug": "~4.4.0",
+    "ejs": "~3.1.10",
+    "express": "~4.21.2",
+    "http-errors": "~2.0.0",
+    "morgan": "~1.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
